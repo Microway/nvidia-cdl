@@ -17,7 +17,7 @@ We also support data on actively running processes with command line arguments "
 
 To the staff of NVIDIA, thank you so very much for all of your help and expert assistance regarding this issue. 
 
-Code is distributed under EPL and Public Domain, except `nvml.h` header which is the property of NVIDIA Corporation.
+Code is distributed under EPL and Public Domain.
 
 Building
 --------
